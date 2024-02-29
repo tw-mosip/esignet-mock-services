@@ -71,3 +71,4 @@ Repository contains mock implementation of auth for e-signet
    ![](docs/images/get-jwks-details.PNG)
 *  Update `client-private-key` in esignet namespace with  `base64 encoded` value of the keypair from previous step.
 *  Restart mock-relying-party-service pod
+
