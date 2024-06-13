@@ -68,6 +68,11 @@
 			<id>danubetech-maven-public</id>
 			<url>https://repo.danubetech.com/repository/maven-public/</url>
 		</repository>
+		<repository>
+			<id>waltid</id>
+			<name>walt.id</name>
+			<url>https://maven.walt.id/repository/waltid/</url>
+		</repository>
 	</repositories>
 
 	<distributionManagement>
